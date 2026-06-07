@@ -67,9 +67,9 @@ HELP International — a global humanitarian NGO — has raised **$10 million US
 ### Clustering Output (K-Means K=3)
 | Tier | Countries | Avg Income | Avg Life Expectancy |
 |---|---|---|---|
-| 🔴 Under-developed | 47 | $3,942 | 59.2 yrs |
-| 🟡 Developing | 84 | $12,306 | 72.8 yrs |
-| 🟢 Developed | 36 | $45,672 | 80.1 yrs |
+|  Under-developed | 47 | $3,942 | 59.2 yrs |
+|  Developing | 84 | $12,306 | 72.8 yrs |
+|  Developed | 36 | $45,672 | 80.1 yrs |
 
 **DBSCAN Outliers:** Haiti, Luxembourg, Malta, Nigeria, Qatar, Singapore
 
