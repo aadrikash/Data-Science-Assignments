@@ -62,7 +62,7 @@ The filter count deliberately scales up: 32 → 64 → 128. Early layers need fe
 
 ---
 
-### Round 3 — Training strategies (the part most tutorials skip)
+### Round 3 — Training strategies 
 
 Three additional experiments exploring what happens *after* you choose your architecture:
 
@@ -120,13 +120,4 @@ The EarlyStopping experiment taught me that more epochs ≠ better model. The be
 
 ---
 
-## About this project
 
-Built as part of a deep learning course assignment comparing ANN and CNN architectures on standard benchmark data. The goal wasn't just to hit a number — it was to understand *why* the numbers come out the way they do.
-
-If you're reading this trying to understand CNNs for the first time: run the notebook, look at the learning curves, and pay attention to the gap between training and validation accuracy. That gap tells you more than the final accuracy ever will.
-
----
-
-*Aadrika Sharma · AI & Data Science · Poornima College of Engineering*  
-*github.com/aadrikash*
