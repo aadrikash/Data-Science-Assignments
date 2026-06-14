@@ -1,7 +1,5 @@
 # Can a flat list of numbers recognize a cat?
 
-Spoiler: barely. That's the whole point of this project.
-
 ---
 
 I built this to understand something that confused me for a while — why do we even need convolutional layers? Why can't we just feed images into a regular neural network and call it a day? Turns out the answer is deeply satisfying once you see it in action on real data.
